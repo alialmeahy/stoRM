@@ -1,0 +1,6 @@
+﻿token=NTQxMDE4MzYxMTk1MTM0OTg4.DzZWnw.0ghs9IzETCVmE4b7mSYaWQ5ZvCs
+owner=511878469211127811
+prefix= Splay
+game= Shelp
+stayinchannel=true
+songinstatus=true 
